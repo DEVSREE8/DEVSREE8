@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Sreeraj Rajeev
 - 🌱 I’m currently learning MERN Stack Development
-- 💞️ I’m looking to collaborate on ...
 - 📫 Email: sreerajrajeev28@gmail.com
   
 
